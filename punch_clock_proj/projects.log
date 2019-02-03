@@ -1,0 +1,39 @@
+[1;31m-> [0m[START]  : Working on Updating Windows PCs for Airport (3) at Wednesday June 6 03:19:39 PM 2018
+[1;31m-> [0m[UPDATE] : NameSet: Airport-02 at Wednesday June 6 03:20:16 PM 2018
+[1;31m-> [0m[UPDATE] : Windows 10 is installed / activated at Wednesday June 6 03:20:35 PM 2018
+[1;31m-> [0m[UPDATE] : Office is installed at Wednesday June 6 03:20:56 PM 2018
+[1;31m-> [0m[UPDATE] : Office is activated. at Wednesday June 6 03:36:42 PM 2018
+[1;31m-> [0m[UPDATE] : ERROR : Feature update to Windows 10, version 1803 - Error 0x80070020 at Wednesday June 6 03:37:05 PM 2018
+[1;31m-> [0m[UPDATE] : Restarting computer to see if update will pass at Wednesday June 6 03:37:56 PM 2018
+[1;31m-> [0m[UPDATE] : After restarting the computer, version 1803 started installing at Thursday June 7 08:19:57 AM 2018
+[1;31m-> [0m[UPDATE] : /START AIRPORT-03 at Thursday June 7 08:33:04 AM 2018
+[1;31m-> [0m[UPDATE] : Windows 10, build 1803, Installed, Activated, Updated at Thursday June 7 08:33:04 AM 2018
+[1;31m-> [0m[UPDATE] : Office 2016, Installed, Activated, Updated at Thursday June 7 08:33:04 AM 2018
+[1;31m-> [0m[UPDATE] : NameSet: Airport-03 at Thursday June 7 08:33:04 AM 2018
+[1;31m-> [0m[UPDATE] : NetworkShare: Discovery: On; File/Print Share: Off at Thursday June 7 08:33:04 AM 2018
+[1;31m-> [0m[UPDATE] : Ethernet Adapter: IPv6: false; File/Print: Off at Thursday June 7 08:33:04 AM 2018
+[1;31m-> [0m[UPDATE] : ERROR: Cannot reach any sites, certificate error... at Thursday June 7 08:33:04 AM 2018
+[1;31m-> [0m[UPDATE] : /END AIRPORT-03 at Thursday June 7 08:33:04 AM 2018
+[1;31m-> [0m[UPDATE] : /START AIRPORT-03 at Thursday June 7 08:42:59 AM 2018
+[1;31m-> [0m[UPDATE] : Remembered that they are not to be connected to our domain at Thursday June 7 08:42:59 AM 2018
+[1;31m-> [0m[UPDATE] : This is the reason for the certificate error and no apps can be installed to the device until they are taken to their respective location at Thursday June 7 08:42:59 AM 2018
+[1;31m-> [0m[UPDATE] : /END AIRPORT-03 at Thursday June 7 08:42:59 AM 2018
+[1;31m-> [0m[UPDATE] : /START AIRPORT-02 at Thursday June 7 09:54:04 AM 2018
+[1;31m-> [0m[UPDATE] : Windows 10, build 1803, Inst,Act,Updated at Thursday June 7 09:54:04 AM 2018
+[1;31m-> [0m[UPDATE] : Office 2016, Inst,Act,Updated at Thursday June 7 09:54:04 AM 2018
+[1;31m-> [0m[UPDATE] : NameSet: AIRPORT-02 at Thursday June 7 09:54:04 AM 2018
+[1;31m-> [0m[UPDATE] : NetShare: Discovery: On; File/Print: Off at Thursday June 7 09:54:04 AM 2018
+[1;31m-> [0m[UPDATE] : Adapter: File/Print: Off; IPv6: Off at Thursday June 7 09:54:04 AM 2018
+[1;31m-> [0m[UPDATE] : Domain: N/A at Thursday June 7 09:54:04 AM 2018
+[1;31m-> [0m[UPDATE] : /END at Thursday June 7 09:54:04 AM 2018
+[1;31m-> [0m[START]  : Working on Updating MDS1 iPads at Tuesday June19 01:52:53 PM 2018
+[1;31m-> [0m[UPDATE] : All 5 iPads at iOS 11.4 at Tuesday June19 01:53:11 PM 2018
+[1;31m-> [0m[START]  : Working on test at Thursday August 2 12:45:26 PM 2018
+[1;31m-> [0m[UPDATE] : test1 at Thursday August 2 12:45:36 PM 2018
+[1;31m-> [0m[UPDATE] : test2 at Thursday August 2 12:45:36 PM 2018
+[1;31m-> [0m[START]  : Working on Test .temp at Thursday August 2 01:45:58 PM 2018
+[1;31m-> [0m[START]  : Working on iPad(test) at Thursday August 2 01:47:46 PM 2018
+[1;31m-> [0m[START]  : Working on ipadtest at Thursday August 2 01:51:06 PM 2018
+[1;31m-> [0m[UPDATE] : test at Thursday August 2 02:10:33 PM 2018
+[1;31m-> [0m[UPDATE] : test at Thursday August 2 02:12:25 PM 2018
+[1;31m-> [0m[UPDATE] : test at Thursday August 2 02:12:25 PM 2018
